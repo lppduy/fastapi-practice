@@ -10,3 +10,4 @@ app.include_router(blog_post.router)
 def index():
     return {"message": "Hello, World!"}
 
+
